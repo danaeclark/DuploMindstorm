@@ -1,2 +1,5 @@
 File Directory
-1 - IR_and_Motor : Contains the 3D models of a duplo block to hold a motor with a lid and a duplo block to hold an IR Reciever and a lid. 
+
+STL
+1    -    IR_and_Motor : Contains the 3D models of a duplo block to hold a motor with a lid and a duplo block to hold an IR Reciever and a lid. 
+2    -    TouchSensor  : Contains the 3D model of a duplo block to hold a touch sensor with a lid. 
