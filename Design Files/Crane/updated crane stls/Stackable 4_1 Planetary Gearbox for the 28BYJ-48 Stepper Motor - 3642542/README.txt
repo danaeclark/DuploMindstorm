@@ -1,0 +1,1 @@
+Stackable 4:1 Planetary Gearbox for the 28BYJ-48 Stepper Motor by DL_3D on Thingiverse: https://www.thingiverse.com/thing:3642542
